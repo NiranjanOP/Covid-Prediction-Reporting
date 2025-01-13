@@ -3,7 +3,7 @@
 A comprehensive data engineering project that predicts and reports COVID-19 data using Azure technologies and Power BI.
 
 ## Solution Architecture
-![Solution Architecture](Solution Architecture.jpg)
+![Solution Architecture](Solution-Architecture.jpg)
 
 ## Overview
 This project demonstrates the end-to-end data engineering process for ingesting, transforming, and visualizing COVID-19 data.
